@@ -3,7 +3,7 @@
 <@c.page>
 <div style="margin-top: 50px;">
     <div>
-        Hello, ${name}!
+        Hello, user!
     </div>
 
     <h5>Разработала Швецова Мария</h5>
